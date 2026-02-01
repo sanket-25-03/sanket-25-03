@@ -4,38 +4,7 @@
 ---
 
 # 💫 About Me
-- 🔭 Currently working as a **Software Developer** at a Apprely Techonologies (<span id="experience"></span> of experience).
-<script>
-(function() {
-    const joiningDate = new Date('2024-12-01'); // Set your joining date here
-    const today = new Date();
-    
-    let years = today.getFullYear() - joiningDate.getFullYear();
-    let months = today.getMonth() - joiningDate.getMonth();
-    
-    if (months < 0) {
-        years--;
-        months += 12;
-    }
-    
-    let experience = '';
-    if (years === 0) {
-        experience = `${months}+ month${months !== 1 ? 's' : ''}`;
-    } else if (months === 0) {
-        experience = `${years}+ year${years !== 1 ? 's' : ''}`;
-    } else {
-        experience = `${years}+ year${years !== 1 ? 's' : ''} ${months}+ month${months !== 1 ? 's' : ''}`;
-    }
-    
-    const expElement = document.getElementById('experience');
-    if (expElement) {
-        expElement.textContent = experience;
-    }
-})();
-</script>
-- ⚙️ Skilled in **API Development, Data Migration, and Airflow DAGs**.  
-- 🌱 Exploring **System Design, Cloud Deployment (AWS/GCP), and CI/CD**.  
-- 💬 Ask me about **Python, APIs, Databases, and exciting backend projects**.  
+- 🔭 Working as a **Software Developer** at a Apprely Techonologies since Jan-2025. 
 
 ---
 
